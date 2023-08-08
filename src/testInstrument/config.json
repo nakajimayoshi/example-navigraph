@@ -1,0 +1,9 @@
+{
+  "index": "./index.tsx",
+  "isInteractive": true,
+  "name": "test",
+  "dimensions": {
+    "width": 768,
+    "height": 1500
+  }
+}
